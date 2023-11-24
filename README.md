@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aqib89
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning BI and Deep Learning
+- 🌱 I’m currently learning BI
 - 💞️ I’m looking to collaborate on any project relating Data Science
 - 📫 How to reach me ch.aqib89@gmail.com
 
